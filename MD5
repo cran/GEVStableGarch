@@ -1,0 +1,8 @@
+6210f2e2f9b9642cd0bc56f82b26b3b4 *DESCRIPTION
+8fccd5e3e3425e7a079927b98a5e20cb *NAMESPACE
+19c6a78a938311dfb5f61c79678340e1 *R/GEVStableGarch.r
+bf0329adc40caefd472de52ed0939a71 *inst/CITATION
+64687474b2b0cf202785a3c32f2dad0d *man/GEVStableGarch-package.Rd
+196cdd6d9d8956f0a21a8f68ceccbcac *man/GSgarch.Fit.Rd
+3f9fc5dbb66d003a2e45c781981abe4c *man/GSgarch.FitAIC.Rd
+a25d547e173ad882ec3ff363bfae98e1 *man/GSgarch.Sim.Rd
